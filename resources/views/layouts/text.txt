@@ -1,0 +1,2 @@
+stander page 
+static for all pages

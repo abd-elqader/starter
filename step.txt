@@ -1,0 +1,3 @@
+download laravel
+set database configuration
+create database tables using migration
